@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HamcrestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-23T21:04:05" hostname="DESKTOP-DQ59TTI" time="0.01">
+  <properties/>
+  <testcase name="testCustomMatcher1" classname="HamcrestTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
